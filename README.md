@@ -2,10 +2,11 @@
 # Kubernetes
 ═══════════════════════════════════════════════════════════════════════
 
+
 <code> 
 
 	#=============================================================================#
-	# Manufakture Kubernetes
+	# Manufakture Kubernetes Cluster
 	#-----------------------------------------------------------------------------#
 
                                   _____        __      __                        
@@ -23,7 +24,7 @@
 </code>		
 	
 
-The Manufakture box is a lightweight Cloud and Cluster on Windows and full POSIX environment.
+Manufakture is a lightweight Cloud and Cluster dev box with a full Windows POSIX environment.
 
 It consists: of Syswin, Cygwin, VirtualBox, Vagrant, Docker (Toolbox), Kubernetes (Minikube).
 
